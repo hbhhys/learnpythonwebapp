@@ -1,3 +1,10 @@
+# VsCode:
+.vscode/launch.json
+.vscode/settings.json
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
